@@ -1,6 +1,6 @@
 {
   "name": "redux-saga-take-every-done",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "redux-saga,takeEveryDone,Spawns a saga on all action dispatched to the Store that matches pattern",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "redux",
     "redux-saga"
   ],
-  "author": "zhongjiahao",
+  "author": {
+    "name": "zzzJH",
+    "email": "zhongjh1994@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zzzJH/redux-saga-take-every-done/issues"
