@@ -1,0 +1,38 @@
+{
+  "name": "redux-saga-take-every-done",
+  "version": "0.0.1",
+  "description": "redux-saga,takeEveryDone,Spawns a saga on all action dispatched to the Store that matches pattern",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "tape -r babel-register tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zzzJH/redux-saga-take-every-done.git"
+  },
+  "keywords": [
+    "redux",
+    "redux-saga"
+  ],
+  "author": "zhongjiahao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzzJH/redux-saga-take-every-done/issues"
+  },
+  "homepage": "https://github.com/zzzJH/redux-saga-take-every-done#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-tape-runner": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.9.1"
+  }
+}
