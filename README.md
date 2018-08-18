@@ -17,4 +17,4 @@ function * actionsDone () {
 ```
 
 ## License
-MIT
+[MIT](https://github.com/zzzJH/redux-saga-take-every-done/blob/master/LICENSE)
