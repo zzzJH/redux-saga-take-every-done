@@ -5,6 +5,8 @@ Spawns a saga on all action dispatched to the Store that matches pattern
 ## How to use
 
 ```
+npm install redux-saga-take-every-done --save
+
 import takeEveryDone from 'redux-saga-take-every-done'
 
 function * rootSaga () {
