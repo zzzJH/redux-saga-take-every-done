@@ -1,4 +1,4 @@
-# redux-saga-take-every-done [![Build Status](https://travis-ci.org/zzzJH/redux-saga-take-every-done.svg?branch=master)](https://travis-ci.org/zzzJH/redux-saga-take-every-done) 
+# redux-saga-take-every-done [![Build Status](https://travis-ci.org/zzzJH/redux-saga-take-every-done.svg?branch=master)](https://travis-ci.org/zzzJH/redux-saga-take-every-done) [![npm version](https://img.shields.io/npm/v/redux-saga-take-every-done.svg?style=flat)](https://www.npmjs.com/package/redux-saga-take-every-done)
 
 Spawns a saga on all action dispatched to the Store that matches pattern
 
