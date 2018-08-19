@@ -24,11 +24,10 @@
     "url": "https://github.com/zzzJH/redux-saga-take-every-done/issues"
   },
   "homepage": "https://github.com/zzzJH/redux-saga-take-every-done#readme",
-  "dependencies": {
-    "babel-polyfill": "^6.26.0",
-    "babel-tape-runner": "^2.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-tape-runner": "^2.0.1",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-regenerator": "^6.26.0",
     "babel-preset-env": "^1.7.0",
