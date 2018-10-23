@@ -1,7 +1,7 @@
 {
   "name": "redux-saga-take-every-done",
-  "version": "0.0.3",
-  "description": "redux-saga,takeEveryDone,Spawns a saga on all action dispatched to the Store that matches pattern",
+  "version": "0.0.4",
+  "description": "[DEPRECATED] redux-saga,takeEveryDone,Spawns a saga on all action dispatched to the Store that matches pattern",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib",
